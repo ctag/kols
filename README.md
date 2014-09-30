@@ -3,8 +3,7 @@ kols
 
 Launcher script for KOreader.
 
-Usage
-====
+### Usage
 
 Requires:
 - KOreader installed as a KUAL extension
@@ -15,8 +14,7 @@ Install:
 - The path is important, script will not operate from any other directory.
 - Run tools->update PDFs to create an initial list
 
-Planned TODO
-====
+### Planned TODO
 
 - Make the script more modular. Look for a reliable posix method of handling json from a shell script
 - Include auto-updater (if I can figure out how to make one)
@@ -24,7 +22,6 @@ Planned TODO
 - Allow customization of file extensions to include
 - Include option to sort by alphabet or by usage counts
 
-Contact
-====
+### Contact
 
 please send feedback to bigbero(at)gmail.com, unless there's a better system you'd rather use here on github.
