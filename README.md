@@ -9,7 +9,7 @@ Requires:
 - KOreader installed as a KUAL extension
 
 Install:
-- Check that the paths I've set in my script work for your device.
+- Check that the paths I've set in the script work for your device.
 - Unpack this project to /mnt/us/extensions/kols/
 - The path is important, script will not operate from any other directory.
 - Run tools->update PDFs to create an initial list

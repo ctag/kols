@@ -24,7 +24,3 @@ echo "}" >> menu.json
 priority=$(( priority +1 ))
 echo $priority > menuCount.txt
 
-#menuCount=$(( menuCount + 1 ))
-#echo "menu: $menuCount"
-#export menuCount
-
