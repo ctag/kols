@@ -12,7 +12,7 @@ echo "," >> menu.json
 
 title=`echo "$1" | awk -F/ '{ print $NF }'`
 
-echo $title
+#echo $title
 
 echo "{" >> menu.json
 echo "\"name\": \"$title\"," >> menu.json
