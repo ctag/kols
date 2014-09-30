@@ -4,3 +4,18 @@
 		"name": "kols",
 		"priority": 0,
 		"items": [
+		{
+			"name": "tools",
+			"priority": 1,
+			"items": [
+			{
+				{
+					"name": "Update PDFs",
+					"priority": 1,
+					"action": "./bin/generate.sh",
+					"exitmenu": false,
+					"checked": true,
+					"refresh": true,
+					"status": false,
+				},
+			}

@@ -23,7 +23,7 @@ cp menu.json menu.json.bkup
 
 #echo "" > menu.json
 
-echo "1" > menuCount.txt
+echo "2" > menuCount.txt
 
 cat prefix.json > menu.json
 
