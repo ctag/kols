@@ -1,7 +1,11 @@
 kols
 ====
 
-helper script for KOreader
+Helper script for KOreader.
+
+Unpack this project to /mnt/us/extensions/kols/
+
+The path is important, script will not operate from any other directory.
 
 run tools->update PDFs to create an initial list
 
